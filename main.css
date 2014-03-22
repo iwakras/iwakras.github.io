@@ -3,9 +3,17 @@
   hex codes - look em up.
 */
 
-table { border: 1px solid purple; } /*styles the whole table */
-table tr th { 
+table { border: 1px solid black; } /*styles the whole table */
+table tr th#Heels { 
     background-color: blue; 
     color: white
     } /*styles the header row of the table */ 
+table tr th#Terps { 
+    background-color: yellow; 
+    color: black
+    }
+table tr th#Hokies { 
+    background-color: maroon; 
+    color: white
+    }
 table tr td { font-weight: bold; }
