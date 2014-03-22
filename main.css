@@ -1,0 +1,11 @@
+/*
+  This here is a comment. Commenting about comments. If you want to be specific about a color, you can add in the 
+  hex codes - look em up.
+*/
+
+table */styles the whole table */ { border: 1px solid purple; } 
+table tr th */styles the header row of the table */ { 
+    background-color: blue; 
+    color: white
+    } 
+table tr td { font-weight: bold; }
