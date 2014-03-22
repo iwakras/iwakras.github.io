@@ -4,16 +4,23 @@
 */
 
 table { border: 1px solid black; } /*styles the whole table */
-table tr th#Heels { 
+
+table tr td { font-weight: bold; }
+
+table tr th#head1 { 
     background-color: blue; 
     color: white
     } /*styles the header row of the table */ 
-table tr th#Terps { 
+
+table tr th#head2 { 
     background-color: yellow; 
     color: black
     }
-table tr th#Hokies { 
+
+table tr th#head3 { 
     background-color: maroon; 
     color: white
     }
-table tr td { font-weight: bold; }
+
+
+#maincontent { 
